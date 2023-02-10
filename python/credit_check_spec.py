@@ -1,4 +1,4 @@
-# Can you translate this driver code to unit tests?
+# Can you translate this driver code to unit tests? My response: "Let me look at my notes"
 
 from credit_check import credit_check
 
